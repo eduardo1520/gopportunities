@@ -1,2 +1,16 @@
 execute
 .vscode
+
+# Binaries
+*.execute*.dll
+*.so
+*.dylib
+
+# Test Binary
+*.test
+
+# Coverage
+*.out
+
+# Db Folder
+db/
